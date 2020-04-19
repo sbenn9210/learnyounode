@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sbenn9210/learnyounode#readme",
   "dependencies": {
-    "bl": "^4.0.2"
+    "bl": "^4.0.2",
+    "through2-map": "^3.0.0"
   }
 }
